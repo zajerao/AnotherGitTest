@@ -20,6 +20,8 @@ class ViewController: UIViewController {
         
         // i am told that git has managed to push to origin but where are the changes?
         
+        print("Squirrels are fun!")
+        
     }
 
 
