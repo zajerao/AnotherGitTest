@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         
         // I don't understand anything...
         
+        // i am told that git has managed to push to origin but where are the changes?
+        
     }
 
 
